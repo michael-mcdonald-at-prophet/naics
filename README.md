@@ -5,9 +5,9 @@ website](https://www.census.gov/naics/?48967)
 
 ## The North American Industry Classification System (NAICS) uses a hierarchical structure...
 
-to classify establishments into industries based on the similarity of
+to classify businesses into industries based on the similarity of
 their production processes. The structure is designed to offer a high
-level of detail and is adaptable to the changing economic landscape.
+level of detail while also being adaptable to the changing economic landscape.
 
 ### NAICS Code Structure:
 
@@ -46,9 +46,6 @@ layer of specificity to the industry classification.
                 -   722513 - Limited-Service Restaurants (National
                     Industry)
 
-```{=html}
-<!-- -->
-```
 -   33 - Manufacturing (Sector)
     -   334 - Computer and Electronic Product Manufacturing (Subsector)
         -   3342 - Communications Equipment Manufacturing (Industry
