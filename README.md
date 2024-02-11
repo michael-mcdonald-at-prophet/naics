@@ -37,6 +37,8 @@ The NAICS codes consist of six digits, each level of detail adding a layer of sp
 
 # Using this package
 
+`devtools::install_github('michael-mcdonald-at-prophet/naics')`
+
 For now the primary purpose of this package is to provide tools to navigate and visualize data against the NAICS taxonomy. The taxonomy can be accessed directly via the `naics22` dataset within `library(naics)`.
 
 # TODO
