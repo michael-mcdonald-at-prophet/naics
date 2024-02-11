@@ -9,6 +9,11 @@ to classify businesses into industries based on the similarity of
 their production processes. The structure is designed to offer a high
 level of detail while also being adaptable to the changing economic landscape.
 
+We see NAICS codes, along with SIC codes, in a variety of firmographic sources such
+as D&B and Experian B2B. When starting a new application, NAICS should be the source of choice
+over SIC. NAICS represents a more modern taxonomy while SIC provides a means of compatibility with
+legacy applications.
+
 ### NAICS Code Structure:
 
 The NAICS codes consist of six digits, each level of detail adding a
@@ -55,6 +60,11 @@ layer of specificity to the industry classification.
                 -   334220 - Radio and Television Broadcasting and
                     Wireless Communications Equipment Manufacturing
                     (National Industry)
+
+
+# Using this package
+
+For now the primary purpose of this package is to provide tools to navigate and visualize data against the NAICS taxonomy. The taxonomy can be accessed directly via the `naics22` dataset within `library(naics)`.
 
 # TODO
 
