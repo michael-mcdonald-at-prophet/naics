@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # North American Industry Classification System (NAICS) data & tools
 
 NAICS 2022 Code Guidelines downloaded from [US Census NAICS
